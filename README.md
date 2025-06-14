@@ -5,6 +5,8 @@ StaLang is a DSL programming language for statistics.
 
 # Installation
 
+- Note: the code was
+checked in macOS
 ## macOS
 
 ### brew | good one
