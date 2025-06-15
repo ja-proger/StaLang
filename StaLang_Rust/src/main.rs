@@ -1,14 +1,15 @@
 // main.rs
 
 #[path = "lexer/lexer.rs"]
-mod lexer
+mod lexer;
 #[path = "ast/ast.rs"]
-mod ast
+mod ast;
 #[path = "parser/parser.rs"]
-mod parser
+mod parser;
 #[path = "commands/comline.ts"]
-mod comline
+mod comline;
 
 fn main(){
-  println!("compiler");
+    println!("compiler");
 }
+
