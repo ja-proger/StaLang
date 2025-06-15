@@ -15,6 +15,15 @@ I do know that many people don't like reading long licenses, therefore I wrote t
 
 The author of the language and the owner of copyrights is a person, who hides his personality by the JA Proger name 😉
 
+### License itself
+Mozilla Public License 2.0
+
+Prohibits:
+- Trademark use
+
+### Usage Policy
+
+
 ## Installation
 TODO: In work
 
