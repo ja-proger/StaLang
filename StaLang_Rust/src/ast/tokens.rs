@@ -1,5 +1,5 @@
 
-enum TokenKind {
+pub enum TokenKind {
   KEYWORD,
   OPERATOR,
   SEPARATOR
