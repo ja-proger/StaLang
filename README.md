@@ -59,7 +59,8 @@ mv
 
 ## Overview
 
+To learn StaLang read StaLang Book in Wiki section
 
 ## Language Reference 
-
+Read Wiki for info
 
