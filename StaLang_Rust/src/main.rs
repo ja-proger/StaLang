@@ -10,6 +10,8 @@ mod parser;
 mod comline;
 
 fn main(){
-    println!("compiler");
+    let source: &str = "out 0;";
+    lexer::lex(source);
+    println!("success");
 }
 
