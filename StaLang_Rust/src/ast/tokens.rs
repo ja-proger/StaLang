@@ -5,7 +5,7 @@ enum TokenKind {
   SEPARATOR
 }
 
-struct TokenDocs {
+pub struct TokenDocs {
   token_id: i8,
   kind: TokenKind,
   name: String,
