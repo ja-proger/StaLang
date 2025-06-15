@@ -38,7 +38,7 @@ Note: the code was created in macOS and wasn't checked in other OS
 1. Open the terminal app
 2. Run the code
 ```bash
-cd /path
+cd /path/to/temporary/folder
 ```
 3. Clone the repository 
 ```bash
