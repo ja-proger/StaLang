@@ -6,5 +6,5 @@ fn lex(src: &str) -> Vec<tokens::TokenOperational> {
     for (index, char) in src.chars().enumerate(){
         println!("{index}: {char}");
     }
-    return tokens;
+    tokens
 }
