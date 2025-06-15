@@ -35,14 +35,26 @@ Note: the code was created in macOS and wasn't checked in other OS
 
 #### git clone | painful
 
-1. Clone the repository 
+1. Open the terminal app
+2. Run the code
+```bash
+cd /path
+```
+3. Clone the repository 
 ```bash
 git clone 
 ```
-
-2. Run cargo
+4. Go to the folder
 ```bash
-cargo
+cd ./
+```
+5. Run cargo
+```bash
+cargo 
+```
+6. Move the executable to the `usr` folder
+```bash
+mv  
 ```
 
 ## Overview
