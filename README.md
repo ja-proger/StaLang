@@ -42,7 +42,7 @@ cd /path/to/temporary/folder
 ```
 3. Clone the repository 
 ```bash
-git clone 
+git clone https://github.com/ja-proger/StaLang
 ```
 4. Go to the folder
 ```bash
