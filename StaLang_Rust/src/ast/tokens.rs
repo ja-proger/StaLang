@@ -2,7 +2,10 @@
 pub enum TokenKind {
   KEYWORD,
   OPERATOR,
-  SEPARATOR
+  SEPARATOR,
+  NUMBER,
+  STRING,
+  STRUCTURE
 }
 
 pub struct TokenDocs {
