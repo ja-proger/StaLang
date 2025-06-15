@@ -22,7 +22,11 @@ checked in macOS
 
 #### brew | good one
 
-#### from zip | painful
+#### git clone | painful
+
+```bash
+git clone 
+```
 
 ## Overview
 
