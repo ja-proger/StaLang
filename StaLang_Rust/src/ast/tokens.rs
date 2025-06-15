@@ -12,7 +12,7 @@ struct TokenDocs {
   sign: String
 }
 
-struct TokenOperational {
+pub struct TokenOperational {
   sign: String,
   pos_s: i8,
   pos_f: i8,
