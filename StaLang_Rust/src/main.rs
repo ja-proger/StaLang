@@ -6,7 +6,7 @@ mod lexer;
 mod ast;
 #[path = "parser/parser.rs"]
 mod parser;
-#[path = "commands/comline.ts"]
+#[path = "commands/comline.rs"]
 mod comline;
 
 fn main(){
