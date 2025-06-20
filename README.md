@@ -37,15 +37,19 @@ Note: the code was created in macOS and wasn't checked in other OS
 #### git clone | painful
 
 1. Open the terminal app
-2. Run the code
+2. Run git clone
+```bash
+git clone https://github.com/ja-proger/StaLang.git
+```
+3. Run the code
 ```bash
 cd /path/to/stal
 ```
-3. Run build.sh file 
+4. Run build.sh file 
 ```bash
 sh build.sh
 ```
-4. Test run
+5. Test run
 ```bash
 stal -about
 ```
