@@ -39,23 +39,15 @@ Note: the code was created in macOS and wasn't checked in other OS
 1. Open the terminal app
 2. Run the code
 ```bash
-cd /path/to/temporary/folder
+cd /path/to/stal
 ```
-3. Clone the repository 
+3. Run build.sh file 
 ```bash
-git clone https://github.com/ja-proger/StaLang
+sh build.sh
 ```
-4. Go to the folder
+4. Test run
 ```bash
-cd ./
-```
-5. Run cargo
-```bash
-cargo 
-```
-6. Move the executable to the `usr` folder
-```bash
-mv  
+stal -about
 ```
 
 ## Overview
