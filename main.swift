@@ -11,7 +11,7 @@ func main() {
     // var tokens = run(src: src)
     let args = CommandLine.arguments
     print("\nStaLang Compiler\n----------------------")
-    print("(1) EXECUTED COMMAND:\t'stal \(args[1])'")
+    print("(1) EXECUTED COMMAND:\t'stal \(args.count > 2 ? args[1] : "")'")
     print("(2) FILE: \(args[0] == "stal" ? "Command line" : args[0])")
     print("----------------------")
     if args.count < 2 {
@@ -21,8 +21,9 @@ func main() {
             runCommandHelp()
         }
         else if args[1] == "-dev"{
-            let file = (try? String(contentsOfFile: "./example.stal", encoding: .utf8))!
-            print("\nDEV COMPILATION\n-----------------------\n")
+            let path: String = "/Users/vitalypolevoy/Library/Mobile Documents/com~apple~CloudDocs/5_PROJECTS/7_PROJECTs_PROGs/StaLang/StaLang/StaLang/example.stal"
+            let file = (try? String(contentsOfFile: path, encoding: .utf8))!
+            print("\nDEV COMPILATION\n-----------------------")
             print("\(file)\n----------------------")
             print(run(src: file))
         }
