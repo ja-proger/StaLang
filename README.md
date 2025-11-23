@@ -48,4 +48,15 @@ If you see the description of the stal, so everything was built good.
 ## <a name="5-docs">Documentation</a>
 
 ## <a name="6-usage">Usage</a>
-
+### macOS
+1. Open you `Terminal.app`
+2. Run command
+```sh
+stal -help
+```
+You will see a list of available formulas.
+3. Run command
+```sh
+stal -repl
+```
+You will be able run multiline code, which will run imidiately bu entering `Enter`
