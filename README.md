@@ -55,6 +55,7 @@ If you see the description of the stal, so everything was built good.
 stal -help
 ```
 You will see a list of available formulas.
+
 3. Run command
 ```sh
 stal -repl
