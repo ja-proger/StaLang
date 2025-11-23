@@ -6,7 +6,7 @@ It supports
 - **[FP]()**: functional programming
 - **[MP]()**: meta programming
 
-## Contents
+## 📋 Contents
 - [Introduction](#1-intro)
 - [License](#2-license)
 - [Installation](#3-install)
@@ -20,9 +20,9 @@ Also it has an unusual grammar _(keywords, structures, logic)_.
 
 Read announce hear: https://dev.to/japroger/stalang-announce-3m0f
 
-## <a name="2-license">License</a>
+## <a name="2-license">© License</a>
 
-## <a name="3-install">Installation</a>
+## <a name="3-install">🖥️ Installation</a>
 
 ### macOS
 1. Open your Terminal.app and install the source code.
