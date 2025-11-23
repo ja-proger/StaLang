@@ -1,5 +1,9 @@
 # StaLang
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-macOS-red?logo=windows&logo=linux&logo=apple" />
+</p>
+
 **StaLang _(Statistics Language)_** is a interpreted [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) programming language designed for economics, statistics, analytics, AI training.
 It supports 
 - **[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)**: object-orientated programming
