@@ -1,6 +1,6 @@
 # StaLang
 
-**StaLang _(Statistics Language)_** is a interpreted DSL programming language designed for economics, statistics, analytics, AI training.
+**StaLang _(Statistics Language)_** is a interpreted [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) programming language designed for economics, statistics, analytics, AI training.
 It supports 
 - OOP
 - FP
