@@ -47,6 +47,8 @@ If you see the description of the stal, so everything was built good.
 
 ## <a name="5-docs">Documentation</a>
 
+Read github wiki [https://github.com/ja-proger/StaLang.wiki.git](https://github.com/ja-proger/StaLang/wiki/StaLang-Documentation). It is the **only official source of documentation for StaLang**
+
 ## <a name="6-usage">Usage</a>
 ### macOS
 1. Open you `Terminal.app`
