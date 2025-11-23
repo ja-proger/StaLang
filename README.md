@@ -4,7 +4,8 @@ StaLang (Statistics Language) is a interpreted DSL programming language designed
 It supports 
 - OOP
 - FP
-- MP. 
+- MP
+
 Also it has unusual grammar (keywords, structures, logic).
 
 ## Introduction
