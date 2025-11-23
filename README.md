@@ -1,8 +1,15 @@
 # StaLang
 
-StaLang is an interpreted DSL programming language designed for statistic, 
+StaLang (Statistics Language) is a interpreted DSL programming language designed for economics, statistics, analytics, AI training.
+It supports 
+- OOP
+- FP
+- MP. 
+Also it has unusual grammar (keywords, structures, logic).
 
 ## Introduction
+
+Read announce hear: https://dev.to/japroger/stalang-announce-3m0f
 
 ## License
 
