@@ -9,7 +9,9 @@ It supports
 - **[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)**: object-orientated programming
 - **[FP](https://en.wikipedia.org/wiki/Functional_programming)**: functional programming
 - **[MP](https://en.wikipedia.org/wiki/Metaprogramming)**: meta programming
+
 Write the code in [StaLang IDE](https://github.com/ja-proger/StaLangIDE) _(available in macOS)_
+
 ## 📋 Contents
 - [Introduction](#1-intro)
 - [License](#2-license)
