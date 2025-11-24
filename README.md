@@ -28,12 +28,12 @@ Read announce hear: https://dev.to/japroger/stalang-announce-3m0f
 
 ## <a name="2-license">© License</a>
 
-## Authorship
+### Authorship
 
 - The Author of the StaLang is a person, who hides his personality by the "JA Proger" psedonym. 
 - The real person, who created the language can be identified only if the name of the GitHub account, which is currently holding the repository, will be changed. 
 
-## Trademark usage
+### Trademark usage
 
 
 ## <a name="3-install">🖥️ Installation</a>
