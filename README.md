@@ -1,5 +1,7 @@
 # StaLang
 
+> **CURRENTLY IN DEVELOPMENT**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-macOS-red?logo=windows&logo=linux&logo=apple" />
 </p>
